@@ -1,1 +1,63 @@
 
+
+Coursera
+Computational Thinking for Problem Solving
+Week 2
+2.4 Binary Search
+2.4 Binary Search
+Quiz10 minutes • 10 min
+Submit your assignment
+Due July 29, 11:59 PM PDTJul 29, 11:59 PM PDT
+Receive grade
+To Pass 70% or higher
+Your grade
+-Not available
+
+2.4 Binary Search
+Graded Quiz • 10 min
+
+DueJul 29, 11:59 PM PDT
+2.4 Binary Search
+Total points 2
+1.
+Question 1
+The main assumption that must be made in order to use binary search to determine whether a collection contains a target value is that: 
+
+1 point
+
+A. The target value is in the collection.
+
+
+B. The number of values in the collection is odd.
+
+
+C. The number of values in the collection is a power of two.
+
+
+D. The values in the collection are ordered from smallest to largest.
+
+2.
+Question 2
+A
+corporation is attempting to expand its employee mental health and wellness
+initiative via an awareness campaign and is anticipating that up to four times as many employees will
+participate next year compared to the previous year. The Human Resources
+director will eventually need to be able to check whether a given employee has
+signed up, which means searching through the list of everyone who is
+participating in the campaign. Assuming the list is sorted and the HR director is using binary search, what will be the
+effect on the number of operations in the worst
+case if the list is four times longer than before?    
+
+1 point
+
+A. The number of operations will not change.
+
+
+B. This will require two more operations.
+
+
+C. This will require twice as many operations.
+
+
+D. This will require four times as many operations.
+
